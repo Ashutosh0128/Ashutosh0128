@@ -23,7 +23,7 @@
 <tr>
 <td width="62%" valign="middle">
 
-### 👋 About Me
+### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="26"/> About Me
 
 Computer Science & Engineering graduate passionate about building practical, scalable web applications with **Python, Django, React**, and modern web technologies. I enjoy taking a project from database schema to deployed product — writing clean backend logic, designing REST APIs, and building interfaces that feel good to use.
 
@@ -42,7 +42,7 @@ class Developer:
 </td>
 <td width="38%" align="center" valign="middle">
 
-<img src="profile-photo.jpg" width="230" style="border-radius: 16px; box-shadow: 0 8px 24px rgba(0,0,0,0.35);" alt="Ashutosh Patil"/>
+<img src="profile-photo.jpg" width="230" style="border-radius: 16px; box-shadow: 0 8px 24px rgba(0,0,0,0.35); transition: transform 0.3s ease;" alt="Ashutosh Patil"/>
 
 <br/>
 <sub><b>Pen, Maharashtra, India</b></sub>
@@ -53,7 +53,7 @@ class Developer:
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=3" alt="divider"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:2C5364,100:0F2027&height=3&animation=fadeIn" alt="divider"/>
 
 ## 🚀 Currently Exploring
 
@@ -99,7 +99,7 @@ class Developer:
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=3" alt="divider"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:2C5364,100:0F2027&height=3&animation=fadeIn" alt="divider"/>
 
 # 🚀 Featured Projects
 
@@ -172,7 +172,7 @@ class Developer:
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=3" alt="divider"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:2C5364,100:0F2027&height=3&animation=fadeIn" alt="divider"/>
 
 ## 🎓 Education & Experience
 
@@ -196,7 +196,7 @@ Python/Django backend development, REST APIs, MySQL, backend systems.
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=3" alt="divider"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:2C5364,100:0F2027&height=3&animation=fadeIn" alt="divider"/>
 
 ## 📊 GitHub Analytics
 
@@ -232,7 +232,7 @@ Python/Django backend development, REST APIs, MySQL, backend systems.
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=3" alt="divider"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:2C5364,100:0F2027&height=3&animation=fadeIn" alt="divider"/>
 
 ## 🧩 What I Build
 
@@ -259,7 +259,7 @@ I focus on learning by building practical applications, working through real pro
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=3" alt="divider"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:2C5364,100:0F2027&height=3&animation=fadeIn" alt="divider"/>
 
 ## 📫 Let's Connect
 
@@ -277,12 +277,23 @@ I focus on learning by building practical applications, working through real pro
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/Ashutosh0128/Ashutosh0128/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake animation"/>
+
+<sub>Animated snake — activates automatically once the <code>snk</code> GitHub Action is set up on this repo (optional, one-time setup).</sub>
+
+</div>
+
+<br/>
+
+<div align="center">
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0F2027&height=120&section=footer" alt="footer banner"/>
 
 **Thanks for visiting my profile! 🚀**
 *Open to opportunities, collaborations, and interesting projects.*
 
 </div>
+
 
 
 
