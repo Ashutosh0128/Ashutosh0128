@@ -1,68 +1,40 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=header&animation=fadeIn" width="100%" alt="header"/>
 
+<div align="center">
 
+<img src="profile-photo.jpg" width="180" style="border-radius: 12px;" alt="Ashutosh Patil"/>
 
+<h1>Hi, I'm Ashutosh Patil</h1>
 
+<p><strong>Full Stack Developer &nbsp;·&nbsp; Python & Django &nbsp;·&nbsp; React.js</strong></p>
 
- <div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=550&lines=Building+scalable+web+applications+%F0%9F%9A%80;Django+%7C+React.js+%7C+REST+APIs+%E2%9A%A1;Full+Stack+Developer+%7C+CS+Graduate;Open+to+Full-Time+Opportunities+%F0%9F%9F%A2;Clean+code+%7C+Real+projects+%7C+Always+learning)](https://git.io/typing-svg)
 
-</div>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="60%" valign="middle">
-
-# Hi, I'm Ashutosh Patil 👋
-
-### Full Stack Developer | Python & Django | React.js
-
-Computer Science & Engineering graduate passionate about building practical, scalable web applications with Python, Django, React, and modern web technologies.
-
-🟢 **Open to Full-Time Opportunities**
-
-<br>
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://ashutoshpatil.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashutosh-patil2801)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashutosh0128)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashpatil2528@gmail.com)
 
-</td>
-<td width="40%" align="center" valign="middle">
-
-<img src="profile-photo.jpg" width="260" style="border-radius: 12px;" alt="Ashutosh Patil"/>
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 B.Tech Computer Science & Engineering graduate
-- 🌐 Full Stack Developer with a focus on **Python/Django** backend and **React** frontend
-- 🔌 Experience building **REST APIs** and integrating them with modern frontends
-- 🗄️ Comfortable working with **MySQL** and **SQLite**
-- 🛠️ Git/GitHub for version control and collaborative workflows
-- 🚀 Hands-on experience deploying applications to cloud platforms
-- 💡 Interested in building real-world, production-oriented software
+B.Tech Computer Science & Engineering graduate focused on building practical, scalable web applications. I work across the full stack — from structured Django backends and REST APIs to responsive React frontends.
 
----
+- Comfortable with relational databases (MySQL, SQLite) and RESTful API design
+- Experienced in collaborative development using Git & GitHub
+- Hands-on experience deploying applications to Vercel, Render, and Railway
+- Interested in real-world, production-oriented software
 
-## 🚀 Currently Exploring
-
-- Advanced Django development (custom middleware, permissions, optimization)
-- REST API architecture and best practices
-- React.js for dynamic, component-driven UIs
-- Database design and query optimization
-- Deployment and cloud platforms (Vercel, Render, Railway)
-- Git/GitHub collaborative workflows
-- Data Structures & Algorithms
-- Building production-oriented web applications
+> **Open to full-time roles in Full Stack or Backend Development.**
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -70,59 +42,37 @@ Computer Science & Engineering graduate passionate about building practical, sca
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Backend**
+**Frameworks & Libraries**
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=for-the-badge&logo=django&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-**Frontend**
-
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive%20Design-FF6F00?style=for-the-badge&logo=css3&logoColor=white)
 
 **Databases**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**Tools**
+**Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-**Deployment**
-
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-1D9FD7?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-# 🚀 Featured Projects
+## Featured Projects
 
-### 🌾 Kisan Setu
+### Kisan Setu
 
-A Django-based agricultural equipment rental platform designed to connect farmers with equipment owners.
+A Django-based agricultural equipment rental platform connecting farmers with equipment owners through a structured booking system.
 
-**Key Features**
-- Role-based authentication (Farmer / Equipment Owner)
-- Equipment listings with availability management
-- Booking system with search and filtering
-- Admin dashboard
-- Database-backed architecture
-- Responsive interface
-
-**Tech Stack**
+**Highlights:** Role-based authentication (Farmer / Equipment Owner) · Equipment listings with availability management · Booking & search workflows · Admin dashboard · Responsive interface
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
@@ -131,22 +81,13 @@ A Django-based agricultural equipment rental platform designed to connect farmer
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](ADD_REPOSITORY_URL)
-
 ---
 
-### 🛒 AS-Mart
+### AS-Mart
 
-A mobile-friendly grocery and fresh-produce ordering web application.
+A full-featured grocery and fresh-produce e-commerce web application with session-based cart management and invoice generation.
 
-**Key Features**
-- Product catalog with category browsing
-- Session-based shopping cart
-- Search functionality
-- Checkout workflow with invoice generation
-- Responsive interface
-
-**Tech Stack**
+**Highlights:** Product catalog with category browsing · Session-based shopping cart · Search functionality · Checkout with invoice generation · Mobile-friendly layout
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -154,131 +95,90 @@ A mobile-friendly grocery and fresh-produce ordering web application.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](ADD_REPOSITORY_URL)
-
 ---
 
-### 🔄 SkillSwap
+### SkillSwap
 
-A peer-to-peer skill exchange platform where users can learn from others and offer their own skills.
+A peer-to-peer skill exchange platform where users can list, browse, and book skill-sharing sessions, with integrated reviews and a wallet system.
 
-**Key Features**
-- User authentication and profiles
-- Skill listings powered by REST APIs
-- Session scheduling
-- Reviews and ratings
-- Wallet functionality
-- Admin dashboard
-
-**Tech Stack**
+**Highlights:** User authentication & profiles · Skill listings via REST APIs · Session scheduling · Reviews & ratings · Wallet functionality · Admin dashboard
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![DRF](https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=flat-square&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](ADD_REPOSITORY_URL)
-
 ---
 
-### 🛍️ Amazon Homepage Clone
+### Amazon Homepage Clone
 
-A responsive frontend learning project inspired by the Amazon homepage. *(Educational clone — not affiliated with Amazon.)*
+A responsive frontend project replicating the Amazon homepage layout, built to practise CSS Grid, Flexbox, and JavaScript-driven UI components.
 
-**Key Features**
-- Responsive layout using CSS Grid/Flexbox
-- Navigation bar and image sliders
-- Dropdown UI components
-- JavaScript-driven interactions
-
-**Tech Stack**
+*Educational clone — not affiliated with Amazon.*
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](ADD_REPOSITORY_URL)
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh0128&hide_border=true&theme=tokyonight_duo&border_radius=10" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh0128&theme=tokyo-night&hide_border=true&area=true&area_color=58A6FF&line=58A6FF&point=ffffff&radius=6" width="100%" alt="Activity Graph"/>
+
+<br/><br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,mysql,git,github,vscode,postman,vercel&theme=dark&perline=6" alt="Tech Skills"/>
+</a>
+
+</div>
 
 ---
 
-## 🎓 Education & Experience
+## Education & Experience
 
-**B.Tech Computer Science & Engineering**
-Chhatrapati Shivaji Maharaj University, Panvel
-*2022 – 2026*
-
-**Full Stack Development Internship — InLighnx**
-*2025*
-Worked on Python/Django backend development, REST APIs, MySQL, and backend systems.
-
-**Full Stack Development Course — Quastech**
-*2024*
-
-**Tech Explorer Job Simulation — Commonwealth Bank & Forage**
-*2026*
+| Period | Role / Institution |
+|---|---|
+| 2022 – 2026 | B.Tech Computer Science & Engineering — Chhatrapati Shivaji Maharaj University, Panvel |
+| 2025 | Full Stack Development Internship — InLighnx *(Python/Django, REST APIs, MySQL)* |
+| 2024 | Full Stack Development Course — Quastech |
+| 2026 | Tech Explorer Job Simulation — Commonwealth Bank & Forage |
 
 ---
 
-## 📊 GitHub Analytics
+## Currently Learning
 
-<table width="100%" border="0">
-<tr>
-<td width="50%">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashutosh0128&show_icons=true&theme=default&hide_border=true)
-
-</td>
-<td width="50%">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh0128&layout=compact&hide_border=true)
-
-</td>
-</tr>
-</table>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh0128&hide_border=true)
+- Advanced Django — custom middleware, permissions, query optimisation
+- React.js — component architecture, state management, hooks
+- REST API design patterns and best practices
+- Database optimisation and query performance
+- Cloud deployment — Vercel, Render, Railway
+- Data Structures & Algorithms
 
 ---
 
-## 📈 Profile Activity
+## Connect With Me
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ashutosh0128&style=for-the-badge&color=blue)
-![Followers](https://img.shields.io/github/followers/Ashutosh0128?style=for-the-badge&color=blue)
-
----
-
-## 🧩 What I Build
-
-| 🌐 Full Stack Web Apps | ⚙️ Django Backend Systems | 🔌 REST APIs | 🗄️ Database-Driven Apps |
-|:---:|:---:|:---:|:---:|
-| End-to-end applications combining Django backends with responsive frontends | Structured, maintainable backend systems built with Django | APIs designed for clean integration with frontend clients | Applications built around well-modeled relational databases |
-
----
-
-## 💡 My Approach
-
-**Build real things. Learn continuously. Improve through iteration.**
-
-I focus on learning by building practical applications, working through real problems as they come up, and steadily improving code quality and architecture with each project.
-
----
-
-## 📫 Let's Connect
+<div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://ashutoshpatil.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashutosh-patil2801)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashutosh0128)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashpatil2528@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918600236725)
 
----
+<br/>
 
-<div align="center">
+*Open to full-time opportunities, collaborations, and interesting projects.*
 
-Thanks for visiting my profile! 🚀
+</div>
 
-*Open to opportunities, collaborations, and interesting projects.*
-
-</div> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer&animation=fadeIn" width="100%" alt="footer"/>
