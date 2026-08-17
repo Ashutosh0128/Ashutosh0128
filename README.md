@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="crop_bg.jpeg" width="200" style="border-radius: 12px;" alt="Ashutosh Patil"/>
+<img src="bg_pic.jpeg" width="200" style="border-radius: 12px;" alt="Ashutosh Patil"/>
 
 <h1>Hi, I'm Ashutosh Patil</h1>
 
